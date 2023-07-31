@@ -9,6 +9,7 @@ function HelmetComponent() {
       <link rel="icon" type="image/svg+xml" href="./assets/favicon.ico" />
 
       {/* Meta Tags */}
+      <meta name="google-site-verification" content="wX75jg8Lr466YWXShSbojNXHONIxvfPWyPMgpTmFy0M" />
       <meta name="description" content="Welcome to Reborn Gadgets, your one-stop shop for high-quality used laptops and gadgets in unbeatable condition and prices. Shop now and find the perfect device for your needs!" />
       <meta name="keywords" content="Reborn Gadgets, used laptops, used gadgets, unbeatable prices, online store, laptops, gadgets" />
       <meta name="author" content="Your Name or Company Name" />
