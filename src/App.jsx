@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import './App.css';
-
+import HelmetComponent from "./helmet";
 const App = () => {
   const [timerDays, setTimerDays] = useState("00");
   const [timerHours, setTimerHours] = useState("00");
@@ -58,7 +58,9 @@ const App = () => {
   
 
   return (
+
     <main className='container-fluid'>
+        <HelmetComponent />
       <img src='./assets/bg4.jpg' alt='bg4'/>
     <div className='section-1'>
     <div className='logo'>
