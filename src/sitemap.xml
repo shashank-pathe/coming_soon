@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://reborngadgets0.web.app/</loc>
+    <lastmod>2023-07-31T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://reborngadgets0.web.app/about</loc>
+    <lastmod>2023-07-30T10:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://reborngadgets0.web.app/contact</loc>
+    <lastmod>2023-07-29T14:15:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Add more URLs for other pages of your website here -->
+  <!-- For example, <url>...</url> for each page you want to include in the sitemap -->
+
+</urlset>
