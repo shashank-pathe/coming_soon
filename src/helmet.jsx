@@ -5,7 +5,7 @@ function HelmetComponent() {
   return (
     <Helmet>
       {/* Title */}
-      <title>Reborn Gadgets - Buy Used Laptops and Gadgets at Unbeatable Prices</title>
+      <title>Reborn Gadgets - Used Laptops and Gadgets at Unbeatable Prices</title>
       <link rel="icon" type="image/svg+xml" href="./assets/favicon.ico" />
 
       {/* Meta Tags */}
